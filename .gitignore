@@ -1,3 +1,5 @@
+*.db-journal
+
 # Prerequisites
 *.d
 
