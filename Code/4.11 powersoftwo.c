@@ -1,5 +1,6 @@
 //gcc "4.11 powersoftwo.c"
 //./a.out
+//ldexpl: multiplies a floating point value arg by the number 2 raised to the exp power
 
 #include <math.h>
 #include <stdio.h>
